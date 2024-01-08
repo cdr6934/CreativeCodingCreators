@@ -1,6 +1,9 @@
-# Awesome Creative Coding Tutorials
+# Creative Coding Creators
 
 Following are a number of links to remember and save. This isn't complete but definitely a start. 
+
+> [!Note]
+> The following creators mainly are creating tutorials to be used with the sites below. Take time to look through them! I am still doing that myself but this just is an easy way to check it all out. 
 
 ## [Touch Designer](https://derivative.ca/) 
 An creative node based creative coding environment. This continues to be a popular kit to be used in many creative arts applications. 
