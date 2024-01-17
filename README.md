@@ -12,10 +12,13 @@ An creative node based creative coding environment. This continues to be a popul
 | --- | --- | --- | --- |
 | PPPANIK | Interesting tutorials | [Youtube](https://www.youtube.com/@pppanik007/videos) | `TC` | 
 | Elekktronaut | Most notable tutorials | [Youtube](https://www.youtube.com/@elekktronaut), [Patreon](https://www.patreon.com/elekktronaut) | `TC` | 
+| paketa12 | A rather large TC collection of tutorials | [Patreon](https://www.patreon.com/paketa12) | `TC` | 
 | Supermarket Sallad | Particle systems |  [Youtube](https://www.youtube.com/@supermarketsallad/videos) | `TC` | 
 | TouchDesigner | Offical TC Channel | [Youtube](https://www.youtube.com/@TouchDesignerOfficial/videos) | `TC` | 
 | Plysitron | More interesting TC tutorials | [Youtube](https://www.youtube.com/@plyzitron) | `TC` |
 | Owsley Wylyfyrd | Point cloud TC tutorial | [Youtube](https://www.youtube.com/@owsleywylyfyrd) [Patreon](https://www.patreon.com/owsley_wylyfyrd)| `TC` |
+| Noones Img | Tutorials in TC | [Youtube](https://www.youtube.com/@noonesimg) [Patreon](https://www.patreon.com/noonesimg) | `TC` |
+| Reflekkt | More tutorials | [Youtube](https://www.youtube.com/@reflekkt_net/) | `TC` | 
 
 
 ## [Rhino3D / Grasshopper](https://www.rhino3d.com/)
