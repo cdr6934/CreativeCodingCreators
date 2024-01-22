@@ -38,4 +38,9 @@ An creative node based creative coding environment. This continues to be a popul
 | Blender Guru | Getting Started Tutorials | [Youtube](https://www.youtube.com/@blenderguru)| `Blender`, `Tutorial` |
 | Max Hay | 3D Environment Tutorials |  [Youtube](https://www.youtube.com/@maxhayart) | `Blender` | 
 
-## 
+## [Max MSP]()
+| Name | Description | Link(s) | Category | 
+|---|---|---|---|
+| Andrew Robinson | Youtube tutorials | [Youtube](https://www.youtube.com/@AndrewRobinson26) | `Max`|
+| The Audio Programmer | Youtube tutorial seriess | [Youtube](https://www.youtube.com/watch?v=clCSvX0Pm7U) | `Max`|
+| Amazing Max Stuff | Tutorials | [Youtube](https://www.patreon.com/amazingmaxstuff) [Patreon](https://www.patreon.com/amazingmaxstuff) | `Max`|
