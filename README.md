@@ -11,10 +11,10 @@ Following are a number of links to remember and save.
 | Elekktronaut | Most notable tutorials | [Youtube](https://www.youtube.com/@elekktronaut), [Patreon](https://www.patreon.com/elekktronaut) | `TC` | 
 | paketa12 | A rather large TC collection of tutorials | [Patreon](https://www.patreon.com/paketa12) | `TC` | 
 | Supermarket Sallad | Particle systems |  [Youtube](https://www.youtube.com/@supermarketsallad/videos) | `TC` | 
-| TouchDesigner | Offical TC Channel | [Youtube](https://www.youtube.com/@TouchDesignerOfficial/videos) | `TC` | 
+| TouchDesigner | Official TC Channel | [Youtube](https://www.youtube.com/@TouchDesignerOfficial/videos) | `TC` | 
 | Plysitron | More interesting TC tutorials | [Youtube](https://www.youtube.com/@plyzitron) | `TC` |
 | Owsley Wylyfyrd | Point cloud TC tutorial | [Youtube](https://www.youtube.com/@owsleywylyfyrd) [Patreon](https://www.patreon.com/owsley_wylyfyrd)| `TC` |
-| Noones Img | Tutorials in TC | [Youtube](https://www.youtube.com/@noonesimg) [Patreon](https://www.patreon.com/noonesimg) | `TC` |
+| Noones Img | Tutorials in TC | [Youtube](https://www.youtube.com/@noonesimg), [Patreon](https://www.patreon.com/noonesimg) | `TC` |
 | Reflekkt | More tutorials | [Youtube](https://www.youtube.com/@reflekkt_net/) | `TC` | 
 | GH.parametric design | Rhino + Grasshopper | [Youtube](https://www.youtube.com/@RhinoGrasshopper) | `Rhino3D` |
 | Bosrun | Architecture / Parametric | [Youtube](https://www.youtube.com/@bosrun_lrm) | `Rhino3D` | 
