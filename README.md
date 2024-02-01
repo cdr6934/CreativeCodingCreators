@@ -24,7 +24,7 @@ Following are a number of links to remember and save.
 | Reflekkt | More tutorials | [Youtube](https://www.youtube.com/@reflekkt_net/) | `TC` | 
 | GH.parametric design | Rhino + Grasshopper | [Youtube](https://www.youtube.com/@RhinoGrasshopper) | `Rhino3D` |
 | Bosrun | Architecture / Parametric | [Youtube](https://www.youtube.com/@bosrun_lrm) | `Rhino3D` | 
-| Nebula | A unique way to learn shaders | [Blender Course](https://blendermarket.com/products/nebula-course?ref=311) | Course | `Blender` | 
+| Nebula | A unique way to learn shaders | [Blender Course](https://blendermarket.com/products/nebula-course?ref=311) | `Blender` | 
 | Alessandro Zomparelli| Creator of Tissue Plugin | [Youtube](https://www.youtube.com/@AlessandroZomparelli/videos), [Patreon](https://www.patreon.com/alessandrozomparelli)| `Blender` |
 | Blender Guru | Getting Started Tutorials | [Youtube](https://www.youtube.com/@blenderguru)| `Blender`, `Tutorial` |
 | Max Hay | 3D Environment Tutorials |  [Youtube](https://www.youtube.com/@maxhayart) | `Blender` | 
