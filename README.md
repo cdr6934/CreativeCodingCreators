@@ -7,6 +7,9 @@ Following are a number of links to remember and save.
 
 ## [Touch Designer](https://derivative.ca/) 
 An creative node based creative coding environment. This continues to be a popular kit to be used in many creative arts applications. 
+## [Rhino3D / Grasshopper](https://www.rhino3d.com/)
+## [Blender](https://www.blender.org/)
+## [Max MSP](https://cycling74.com/products/max)
 
 | Name | Description | Link(s) | Category | 
 | --- | --- | --- | --- |
@@ -19,50 +22,20 @@ An creative node based creative coding environment. This continues to be a popul
 | Owsley Wylyfyrd | Point cloud TC tutorial | [Youtube](https://www.youtube.com/@owsleywylyfyrd) [Patreon](https://www.patreon.com/owsley_wylyfyrd)| `TC` |
 | Noones Img | Tutorials in TC | [Youtube](https://www.youtube.com/@noonesimg) [Patreon](https://www.patreon.com/noonesimg) | `TC` |
 | Reflekkt | More tutorials | [Youtube](https://www.youtube.com/@reflekkt_net/) | `TC` | 
-
-
-## [Rhino3D / Grasshopper](https://www.rhino3d.com/)
-
-| Name | Description | Link(s) | Category | 
-| --- | --- | --- | --- |
 | GH.parametric design | Rhino + Grasshopper | [Youtube](https://www.youtube.com/@RhinoGrasshopper) | `Rhino3D` |
 | Bosrun | Architecture / Parametric | [Youtube](https://www.youtube.com/@bosrun_lrm) | `Rhino3D` | 
-
-## [Blender](https://www.blender.org/)
-
-
-| Name | Description | Link(s) | Category | 
-| --- | --- |--- | --- |
 | Nebula | A unique way to learn shaders | [Blender Course](https://blendermarket.com/products/nebula-course?ref=311) | Course | `Blender` | 
 | Alessandro Zomparelli| Creator of Tissue Plugin | [Youtube](https://www.youtube.com/@AlessandroZomparelli/videos), [Patreon](https://www.patreon.com/alessandrozomparelli)| `Blender` |
 | Blender Guru | Getting Started Tutorials | [Youtube](https://www.youtube.com/@blenderguru)| `Blender`, `Tutorial` |
 | Max Hay | 3D Environment Tutorials |  [Youtube](https://www.youtube.com/@maxhayart) | `Blender` | 
-
-## [Max MSP](https://cycling74.com/products/max)
-| Name | Description | Link(s) | Category | 
-|---|---|---|---|
 | Andrew Robinson | Youtube tutorials | [Youtube](https://www.youtube.com/@AndrewRobinson26) | `Max`|
 | The Audio Programmer | Youtube tutorial seriess | [Youtube](https://www.youtube.com/watch?v=clCSvX0Pm7U) | `Max`|
 | Amazing Max Stuff | Tutorials | [Youtube](https://www.patreon.com/amazingmaxstuff) [Patreon](https://www.patreon.com/amazingmaxstuff) | `Max`|
 | Philip Meyer | Tutorials | [Youtube](https://www.youtube.com/@AndrewRobinson26) | `Max` | 
-
-
-## Shaders
-| Name | Description | Link(s) | Category | 
-| --- | --- |--- | --- |
 | Kishimisu | Shader tutorials | [Youtube](https://blendermarket.com/products/nebula-course?ref=311) | Course | `Shaders` | 
 | Freya Holmér | Shader / Game Dev tutorials | [Youtube](https://www.youtube.com/@acegikmo) | Course | `Shaders` | 
-
-## p5
-| Name | Description | Link(s) | Category | 
-| --- | --- |--- | --- |
 | TheCodingTrain | the OG | [Youtube](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)  | `p5` | 
 | Steve's Makerspace |  | [Youtube](hhttps://www.youtube.com/@StevesMakerspace)  | `p5` | 
-
-
-## Three.js
-| Name | Description | Link(s) | Category | 
-| --- | --- |--- | --- |
 | Bruno Simon | Three.js tutorials | [Youtube](https://www.youtube.com/@BrunoSimon) | `ThreeJS` | 
 | Robot Bobby | Three.js | [Youtube](https://www.youtube.com/@robotbobby9) | `ThreeJS` |
 
