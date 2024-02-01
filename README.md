@@ -45,3 +45,7 @@ An creative node based creative coding environment. This continues to be a popul
 | The Audio Programmer | Youtube tutorial seriess | [Youtube](https://www.youtube.com/watch?v=clCSvX0Pm7U) | `Max`|
 | Amazing Max Stuff | Tutorials | [Youtube](https://www.patreon.com/amazingmaxstuff) [Patreon](https://www.patreon.com/amazingmaxstuff) | `Max`|
 | Philip Meyer | Tutorials | [Youtube](https://www.youtube.com/@AndrewRobinson26) | `Max` | 
+
+## Todo
+* Add p5 / processing section 
+* Add Three.js section 
