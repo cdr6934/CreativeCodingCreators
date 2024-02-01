@@ -38,7 +38,7 @@ An creative node based creative coding environment. This continues to be a popul
 | Blender Guru | Getting Started Tutorials | [Youtube](https://www.youtube.com/@blenderguru)| `Blender`, `Tutorial` |
 | Max Hay | 3D Environment Tutorials |  [Youtube](https://www.youtube.com/@maxhayart) | `Blender` | 
 
-## [Max MSP]()
+## [Max MSP](https://cycling74.com/products/max)
 | Name | Description | Link(s) | Category | 
 |---|---|---|---|
 | Andrew Robinson | Youtube tutorials | [Youtube](https://www.youtube.com/@AndrewRobinson26) | `Max`|
@@ -47,20 +47,20 @@ An creative node based creative coding environment. This continues to be a popul
 | Philip Meyer | Tutorials | [Youtube](https://www.youtube.com/@AndrewRobinson26) | `Max` | 
 
 
-## [Shaders]
+## Shaders
 | Name | Description | Link(s) | Category | 
 | --- | --- |--- | --- |
 | Kishimisu | Shader tutorials | [Youtube](https://blendermarket.com/products/nebula-course?ref=311) | Course | `Shaders` | 
 | Freya Holmér | Shader / Game Dev tutorials | [Youtube](https://www.youtube.com/@acegikmo) | Course | `Shaders` | 
 
-## [p5]
+## p5
 | Name | Description | Link(s) | Category | 
 | --- | --- |--- | --- |
 | TheCodingTrain | the OG | [Youtube](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)  | `p5` | 
 | Steve's Makerspace |  | [Youtube](hhttps://www.youtube.com/@StevesMakerspace)  | `p5` | 
 
 
-## [Three.js]
+## Three.js
 | Name | Description | Link(s) | Category | 
 | --- | --- |--- | --- |
 | Bruno Simon | Three.js tutorials | [Youtube](https://www.youtube.com/@BrunoSimon) | `ThreeJS` | 
