@@ -11,7 +11,7 @@ Following are a number of links to remember and save.
 * [Blender](https://www.blender.org/)
 * [Max MSP](https://cycling74.com/products/max)
 
-| Name | Description | Link(s) | Category | 
+| Creator | Description | Link(s) | Category | 
 | --- | --- | --- | --- |
 | PPPANIK | Interesting tutorials | [Youtube](https://www.youtube.com/@pppanik007/videos) | `TC` | 
 | Elekktronaut | Most notable tutorials | [Youtube](https://www.youtube.com/@elekktronaut), [Patreon](https://www.patreon.com/elekktronaut) | `TC` | 
