@@ -29,7 +29,7 @@ Following are a number of links to remember and save.
 | Kishimisu | Shader tutorials | [Youtube](https://blendermarket.com/products/nebula-course?ref=311) |  `Shaders` | 
 | Freya Holmér | Shader / Game Dev tutorials | [Youtube](https://www.youtube.com/@acegikmo) |  `Shaders` | 
 | TheCodingTrain | the OG | [Youtube](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)  | `p5` | 
-| Steve's Makerspace |  | [Youtube](hhttps://www.youtube.com/@StevesMakerspace)  | `p5` | 
+| Steve's Makerspace | | [Youtube](https://www.youtube.com/@StevesMakerspace)  | `p5` | 
 | Bruno Simon | Three.js tutorials | [Youtube](https://www.youtube.com/@BrunoSimon) | `ThreeJS` | 
 | Robot Bobby | Three.js | [Youtube](https://www.youtube.com/@robotbobby9) | `ThreeJS` |
 
