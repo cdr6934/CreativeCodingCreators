@@ -5,11 +5,11 @@ Following are a number of links to remember and save.
 > [!Note]
 > The following creators mainly are creating tutorials to be used with the software below. Take time to look through their content. 
 
-## [Touch Designer](https://derivative.ca/) 
-An creative node based creative coding environment. This continues to be a popular kit to be used in many creative arts applications. 
-## [Rhino3D / Grasshopper](https://www.rhino3d.com/)
-## [Blender](https://www.blender.org/)
-## [Max MSP](https://cycling74.com/products/max)
+## Technologies 
+* [Touch Designer](https://derivative.ca/) 
+* [Rhino3D / Grasshopper](https://www.rhino3d.com/)
+* [Blender](https://www.blender.org/)
+* [Max MSP](https://cycling74.com/products/max)
 
 | Name | Description | Link(s) | Category | 
 | --- | --- | --- | --- |
