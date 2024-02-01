@@ -46,6 +46,19 @@ An creative node based creative coding environment. This continues to be a popul
 | Amazing Max Stuff | Tutorials | [Youtube](https://www.patreon.com/amazingmaxstuff) [Patreon](https://www.patreon.com/amazingmaxstuff) | `Max`|
 | Philip Meyer | Tutorials | [Youtube](https://www.youtube.com/@AndrewRobinson26) | `Max` | 
 
-## Todo
-* Add p5 / processing section 
-* Add Three.js section 
+
+## [Shaders]
+| --- | --- |--- | --- |
+| Kishimisu | Shader tutorials | [Youtube](https://blendermarket.com/products/nebula-course?ref=311) | Course | `Shaders` | 
+
+## [p5]
+| --- | --- |--- | --- |
+| TheCodingTrain | the OG | [Youtube](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)  | `p5` | 
+
+## [Three.js]
+| --- | --- |--- | --- |
+| Bruno Simon | three.js tutorials | [Youtube](https://www.youtube.com/@BrunoSimon) | Course | `Threer` | 
+
+
+
+
