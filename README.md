@@ -1,13 +1,15 @@
 # Creative Coding Creators
 
-Following are a number of links to remember and save. 
+Following are a number of links to remember and save. If you haven't already found my newsletter, please take a look at [Creative Coding /Generative Arts](generative.substack.com); if you like what you find subscribe all content is posted for free. 
+
 
 > [!Note]
 > The following creators mainly are creating tutorials to be used with the software below. Take time to look through their content and the technologies are linked below. 
 
+Also, if you find anything inaccurate please let me know either through an issue or by other means! 
 | Creator | Description | Link(s) | Category | 
 | --- | --- | --- | --- |
-| PPPANIK | Interesting tutorials | [Youtube](https://www.youtube.com/@pppanik007/videos) | `[TC]` | 
+| PPPANIK | Interesting tutorials | [Youtube](https://www.youtube.com/@pppanik007/videos) | `TC` | 
 | Elekktronaut | Most notable tutorials | [Youtube](https://www.youtube.com/@elekktronaut), [Patreon](https://www.patreon.com/elekktronaut) | `TC` | 
 | paketa12 | A rather large TC collection of tutorials | [Patreon](https://www.patreon.com/paketa12) | `TC` | 
 | Supermarket Sallad | Particle systems |  [Youtube](https://www.youtube.com/@supermarketsallad/videos) | `TC` | 
@@ -20,7 +22,7 @@ Following are a number of links to remember and save.
 | Bosrun | Architecture / Parametric | [Youtube](https://www.youtube.com/@bosrun_lrm) | `Rhino3D` | 
 | Nebula | A unique way to learn shaders | [Blender Course](https://blendermarket.com/products/nebula-course?ref=311) | `Blender` | 
 | Alessandro Zomparelli| Creator of Tissue Plugin | [Youtube](https://www.youtube.com/@AlessandroZomparelli/videos), [Patreon](https://www.patreon.com/alessandrozomparelli)| `Blender` |
-| Blender Guru | Getting Started Tutorials | [Youtube](https://www.youtube.com/@blenderguru)| `Blender`, `Tutorial` |
+| Blender Guru | Getting Started Tutorials | [Youtube](https://www.youtube.com/@blenderguru)| `Blender` |
 | Max Hay | 3D Environment Tutorials |  [Youtube](https://www.youtube.com/@maxhayart) | `Blender` | 
 | Andrew Robinson | Youtube tutorials | [Youtube](https://www.youtube.com/@AndrewRobinson26) | `Max`|
 | The Audio Programmer | Youtube tutorial seriess | [Youtube](https://www.youtube.com/watch?v=clCSvX0Pm7U) | `Max`|
