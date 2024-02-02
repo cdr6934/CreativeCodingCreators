@@ -1,6 +1,6 @@
 # Creative Coding Creators
 
-Following are a number of links to remember and save. If you haven't already found my newsletter, please take a look at [Creative Coding /Generative Arts](generative.substack.com); if you like what you find subscribe all content is posted for free. 
+Following are a number of links to remember and save. If you haven't already found my newsletter, please take a look at [Creative Coding /Generative Arts](https://generative.substack.com); if you like what you find subscribe all content is posted for free. 
 
 
 > [!Note]
