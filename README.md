@@ -7,6 +7,7 @@ Following are a number of links to remember and save. If you haven't already fou
 > The following creators mainly are creating tutorials to be used with the software below. Take time to look through their content and the technologies are linked below. 
 
 Also, if you find anything inaccurate please let me know either through an issue or by other means! 
+
 | Creator | Description | Link(s) | Category | 
 | --- | --- | --- | --- |
 | PPPANIK | Interesting tutorials | [Youtube](https://www.youtube.com/@pppanik007/videos) | `TC` | 
