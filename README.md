@@ -28,6 +28,7 @@ Also, if you find anything inaccurate please let me know either through an issue
 | The Audio Programmer | Youtube tutorial seriess | [Youtube](https://www.youtube.com/watch?v=clCSvX0Pm7U) | `Max`|
 | Amazing Max Stuff | Tutorials | [Youtube](https://www.patreon.com/amazingmaxstuff) [Patreon](https://www.patreon.com/amazingmaxstuff) | `Max`|
 | Philip Meyer | Tutorials | [Youtube](https://www.youtube.com/@AndrewRobinson26) | `Max` | 
+| Dillon Baston | Tutorials | ]Youtube](https://www.youtube.com/@dillonbastan246) | `Max` |
 | Kishimisu | Shader tutorials | [Youtube](https://blendermarket.com/products/nebula-course?ref=311) |  `Shaders` | 
 | Freya Holmér | Shader / Game Dev tutorials | [Youtube](https://www.youtube.com/@acegikmo) |  `Shaders` | 
 | Inigo Quilez | Great stretch tutorials | [Youtube](https://www.youtube.com/channel/UCdmAhiG8HQDlz8uyekw4ENw) | `Shaders`|
@@ -42,3 +43,5 @@ Also, if you find anything inaccurate please let me know either through an issue
 * [Rhino3D / Grasshopper](https://www.rhino3d.com/)
 * [Blender](https://www.blender.org/)
 * [Max MSP](https://cycling74.com/products/max)
+* [P5.js](https://p5js.org/)
+* [Processing](https://processing.org/)
