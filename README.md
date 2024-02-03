@@ -21,6 +21,7 @@ Also, if you find anything inaccurate please let me know either through an issue
 | Reflekkt | More tutorials | [Youtube](https://www.youtube.com/@reflekkt_net/) | `TC` | 
 | GH.parametric design | Rhino + Grasshopper | [Youtube](https://www.youtube.com/@RhinoGrasshopper) | `Rhino3D` |
 | Bosrun | Architecture / Parametric | [Youtube](https://www.youtube.com/@bosrun_lrm) | `Rhino3D` | 
+| RJ Weaver | Rhino3D Wearables Class | [Youtube](https://www.youtube.com/@RJWeaver) | `Rhino3D` | 
 | Nebula | A unique way to learn shaders | [Blender Course](https://blendermarket.com/products/nebula-course?ref=311) | `Blender` | 
 | Alessandro Zomparelli| Creator of Tissue Plugin | [Youtube](https://www.youtube.com/@AlessandroZomparelli/videos), [Patreon](https://www.patreon.com/alessandrozomparelli)| `Blender` |
 | Blender Guru | Getting Started Tutorials | [Youtube](https://www.youtube.com/@blenderguru)| `Blender` |
@@ -34,7 +35,7 @@ Also, if you find anything inaccurate please let me know either through an issue
 | Freya Holmér | Shader / Game Dev tutorials | [Youtube](https://www.youtube.com/@acegikmo) |  `Shaders` | 
 | Inigo Quilez | Great stretch tutorials | [Youtube](https://www.youtube.com/channel/UCdmAhiG8HQDlz8uyekw4ENw) | `Shaders`|
 | TheCodingTrain | the OG | [Youtube](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)  | `p5` | 
-| Steve's Makerspace | | [Youtube](https://www.youtube.com/@StevesMakerspace)  | `p5` | 
+| Steve's Makerspace | First | [Youtube](https://www.youtube.com/@StevesMakerspace)  | `p5` | 
 | Bruno Simon | Three.js tutorials | [Youtube](https://www.youtube.com/@BrunoSimon) | `ThreeJS` | 
 | Robot Bobby | Three.js | [Youtube](https://www.youtube.com/@robotbobby9) | `ThreeJS` |
 | Eli FieldSteel | Soundcollider | [Youtube](https://www.youtube.com/@elifieldsteel) | `Supercollider` | 
