@@ -37,7 +37,8 @@ Also, if you find anything inaccurate please let me know either through an issue
 | Steve's Makerspace | | [Youtube](https://www.youtube.com/@StevesMakerspace)  | `p5` | 
 | Bruno Simon | Three.js tutorials | [Youtube](https://www.youtube.com/@BrunoSimon) | `ThreeJS` | 
 | Robot Bobby | Three.js | [Youtube](https://www.youtube.com/@robotbobby9) | `ThreeJS` |
-
+| Eli FieldSteel | Soundcollider | [Youtube](https://www.youtube.com/@elifieldsteel) | `Supercollider` | 
+|Simon Hutchinson |Pure Data | [Youtube](https://www.youtube.com/@SimonHutchinson/videos) | `Pure Sound` | 
 
 ## Technologies 
 * [Touch Designer](https://derivative.ca/) 
@@ -47,3 +48,5 @@ Also, if you find anything inaccurate please let me know either through an issue
 * [P5.js](https://p5js.org/)
 * [Processing](https://processing.org/)
 * [Three.js](https://threejs.org/)
+* [Supercollider](https://supercollider.github.io/)
+* [Pure Data](https://puredata.info/)
