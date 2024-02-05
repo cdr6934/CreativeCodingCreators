@@ -1,6 +1,8 @@
-# Creative Coding Creators
+# Creative Coding Creators/Educators
 
-Following are a number of links to remember and save. If you haven't already found my newsletter, please take a look at [Creative Coding /Generative Arts](https://generative.substack.com); if you like what you find subscribe all content is posted for free. 
+Following are a number of links to remember and save. I'm compiling a list of creators who also create content for others to use. 
+
+If you haven't already found my newsletter, please take a look at [Creative Coding /Generative Arts](https://generative.substack.com); if you like what you find subscribe all content is posted for free. 
 
 
 > [!Note]
@@ -39,7 +41,7 @@ Also, if you find anything inaccurate please let me know either through an issue
 | Bruno Simon | Three.js tutorials | [Youtube](https://www.youtube.com/@BrunoSimon) | `ThreeJS` | 
 | Robot Bobby | Three.js | [Youtube](https://www.youtube.com/@robotbobby9) | `ThreeJS` |
 | Eli FieldSteel | Soundcollider | [Youtube](https://www.youtube.com/@elifieldsteel) | `Supercollider` | 
-|Simon Hutchinson |Pure Data | [Youtube](https://www.youtube.com/@SimonHutchinson/videos) | `Pure Sound` | 
+| Simon Hutchinson |Pure Data | [Youtube](https://www.youtube.com/@SimonHutchinson/videos) | `Pure Sound` | 
 
 ## Technologies 
 * [Touch Designer](https://derivative.ca/) 
