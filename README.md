@@ -33,6 +33,7 @@ Also, if you find anything inaccurate please let me know either through an issue
 | Amazing Max Stuff | Tutorials | [Youtube](https://www.patreon.com/amazingmaxstuff) [Patreon](https://www.patreon.com/amazingmaxstuff) | `Max`|
 | Philip Meyer | Tutorials | [Youtube](https://www.youtube.com/@AndrewRobinson26) | `Max` | 
 | Dillon Baston | Tutorials | [Youtube](https://www.youtube.com/@dillonbastan246) | `Max` |
+| Axers Fall | Tutorial | [Youtube](https://www.youtube.com/@axersfall369) | `Max` | 
 | Kishimisu | Shader tutorials | [Youtube](https://blendermarket.com/products/nebula-course?ref=311) |  `Shaders` | 
 | Freya Holmér | Shader / Game Dev tutorials | [Youtube](https://www.youtube.com/@acegikmo) |  `Shaders` | 
 | Inigo Quilez | Great stretch tutorials | [Youtube](https://www.youtube.com/channel/UCdmAhiG8HQDlz8uyekw4ENw) | `Shaders`|
