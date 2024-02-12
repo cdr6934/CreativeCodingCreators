@@ -28,7 +28,7 @@ Also, if you find anything inaccurate please let me know either through an issue
 | Alessandro Zomparelli| Creator of Tissue Plugin | [Youtube](https://www.youtube.com/@AlessandroZomparelli/videos), [Patreon](https://www.patreon.com/alessandrozomparelli)| `Blender` |
 | Blender Guru | Getting Started Tutorials | [Youtube](https://www.youtube.com/@blenderguru)| `Blender` |
 | Max Hay | 3D Environment Tutorials |  [Youtube](https://www.youtube.com/@maxhayart) | `Blender` | 
-| Andrew Robinson | Youtube tutorials | [Youtube](https://www.youtube.com/@AndrewRobinson26) | `Max`|
+| Andrew Robinson | Youtube tutorials | [Youtube](https://www.youtube.com/@AndrewRobinson26) [Patreon](https://www.patreon.com/andrews_art_project) | `Max`|
 | The Audio Programmer | Youtube tutorial seriess | [Youtube](https://www.youtube.com/watch?v=clCSvX0Pm7U) | `Max`|
 | Amazing Max Stuff | Tutorials | [Youtube](https://www.patreon.com/amazingmaxstuff) [Patreon](https://www.patreon.com/amazingmaxstuff) | `Max`|
 | Philip Meyer | Tutorials | [Youtube](https://www.youtube.com/@AndrewRobinson26) | `Max` | 
